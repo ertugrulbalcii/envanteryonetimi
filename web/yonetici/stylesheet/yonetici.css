@@ -1,0 +1,58 @@
+body {
+    background-image: url("errrcelik.jpg");
+    background-repeat: no-repeat;
+    background-size: 102%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#contact {
+    background-color: rgba(72, 170, 228, 0.397);
+    width: 400px;
+    height: 280px;
+    border-radius: 10px;
+    margin-top: 10px;
+    box-shadow: rgb(54, 54, 54) 0px 0px 10px 5px;
+}
+
+.ad {
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-top: 50px;
+    box-shadow: rgb(54, 54, 54) 0px 0px 5px 2px;
+}
+
+.pw1 {
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-top: 15px;
+    box-shadow: rgb(54, 54, 54) 0px 0px 5px 2px;
+}
+
+.btn {
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+    margin-top: 40px;
+    cursor: pointer;
+    box-shadow: rgb(54, 54, 54) 0px 0px 5px 2px;
+}
+
+.btn:hover {
+    transition: 500ms;
+    background-color: orange;
+    box-shadow: rgb(54, 54, 54) 0px 0px 10px 5px;
+}
+
+
+.baslik{
+    background-color: rgba(72, 170, 228, 0.397);   
+    width: 400px;
+    border-radius: 10px;
+    margin-top: 170px;
+    font-size: 22px;
+    font-weight: bold;
+    box-shadow: rgb(54, 54, 54) 0px 0px 10px 5px;
+}

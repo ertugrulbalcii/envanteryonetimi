@@ -1,0 +1,111 @@
+body{
+    background-image: url("ercelik.jpg");
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-y: 250px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.logo {
+    width: 230px;
+    height: 70px;
+    border-radius: 50px;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+
+h1{
+  position: absolute;
+  color: white;
+  margin-left: 500px;
+  font-size: 75px;
+  font-family: monospace;
+  margin-top: -85px;
+}
+
+#baslik_back{
+    height: 130px;
+    width: 100%;
+    bottom:30px ;
+    background-size: 350px;
+    background-color: rgba(255, 0, 0, 0.781);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    box-shadow: black 0px 2px 5px 2px;
+}
+
+#ust_dıv{
+    width: 100% ;
+    height: 100px;
+    background-color:black;
+    position: absolute;
+    bottom: 63%;
+    opacity: 0.5;
+}
+
+#cikis_btn {
+    position: absolute;
+    margin-left: 1320px;
+    border: none;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    margin-top: -85px;
+    border-radius: 5px;
+    box-shadow: black 0px 0px 5px 2px;
+    font-weight: bold;
+}
+
+#cikis_btn:hover {
+    background-color: #ff0000;
+    color: white;
+    transition: 500ms;
+    box-shadow: rgb(255, 255, 255) 0px 0px 5px 2px;
+}
+
+.formdiv1 {
+    margin-left: 300px;
+    margin-top: 130px;
+    background-color: red;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th {
+  border: 1px solid black;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.sepet {
+    position: absolute;
+    margin-left: 1120px;
+    border: none;
+    background-color: white;
+    width: 150px;
+    height: 40px;
+    margin-top: -85px;
+    border-radius: 5px;
+    box-shadow: black 0px 0px 5px 2px;
+    font-weight: bold;
+}
+
+.sepet:hover {
+    background-color: #ff0000;
+    color: white;
+    transition: 500ms;
+    box-shadow: rgb(255, 255, 255) 0px 0px 5px 2px;
+}
+.isim1{
+    font-size: 40px;
+}
